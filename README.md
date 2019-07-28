@@ -2,9 +2,11 @@
 
 
 welcome yall lets make a python revamped 2048 game
+
 to get started, install pipenv. It's a more robust version of python pip
 
 on your terminal / cmd, type : "pip install pipenv"
+
 then go to your 2048-reloaded directory and run pipenv sync to install all
 of the packages and dependencies you need in this project
 
