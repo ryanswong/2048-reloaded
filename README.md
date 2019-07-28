@@ -2,8 +2,7 @@
 A revamped python 2048 game
 
 ## Getting Started
-#### 1. Install [git](https://git-scm.com/downloads)
-
+### 1. Install [git](https://git-scm.com/downloads)
 We will be using git to version control the project as well as allow for group contribution.
 
 **Helpful articles on how to use git:**
@@ -25,7 +24,7 @@ We will be using git to version control the project as well as allow for group c
 * When you use dir/ls, you should see the "2048-reloaded" folder there
 
 
-#### 2. Install pipenv. It's a more robust version of python pip.
+### 2. Install pipenv. It's a more robust version of python pip.
 
 We will use pipenv to easily install the packages and dependencies we need in this project
 
