@@ -18,20 +18,20 @@ Helpful articles on how to use git:
 
 We will use pipenv to easily install the packages and dependencies we need in this project
 
-To install, type in your terminal/cmd:
+* To install, type in your terminal/cmd:
 
-    pip install pipenv
+        pip install pipenv
 
-Make sure that Pipfile and Pipfile.lock is inside the directory
+* Make sure that Pipfile and Pipfile.lock is inside the directory
 (if not, make sure that you have properly cloned this repository)
 
-Then go to your 2048-reloaded directory and run. (This will install all packages we need such as pygame, or any other ones we decide to use in the future)
+* Then go to your 2048-reloaded directory and run. (This will install all packages we need such as pygame, or any other ones we decide to use in the future)
 
-    pipenv sync
+        pipenv sync
 
-To see all pipenv commands type in:
+* To see all pipenv commands type in:
 
-    pipenv -h
+        pipenv -h
 
     
 
