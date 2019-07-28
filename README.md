@@ -1,8 +1,7 @@
 # 2048-reloaded
 
 
-welcome yall lets make a python 2048 game on steriods.
-
+welcome yall lets make a python revamped 2048 game
 to get started, install pipenv. It's a more robust version of python pip
 
 on your terminal / cmd, type : "pip install pipenv"
