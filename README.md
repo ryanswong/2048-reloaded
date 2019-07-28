@@ -30,6 +30,12 @@ A revamped python 2048 game
     pipenv sync
     ```
     this will install all packages we need such as pygame, or any other ones we decide to use in the future
+    
+    to see all pipenv commands type in:
+    ```
+    pipenv -h
+    ```
+    
 
 
 
