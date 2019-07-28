@@ -1,22 +1,33 @@
 # 2048-reloaded
+A revamped python 2048 game
 
+## Getting Started
+1. Install [git](https://git-scm.com/downloads)
 
-welcome yall lets make a python revamped 2048 game
+    We will be using git to version control the project as well as allow for group contribution.
 
-to get started, install pipenv. It's a more robust version of python pip
+    Helpful articles on how to use git:
+    
+    * [Getting Started on Git and Github (Lots of great links)](https://github.com/maptime/getting-started-with-git-and-github/blob/master/README.md)
+    * [Github Guide (10 minute read)](https://guides.github.com/activities/hello-world/)
+    * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
+    * [Official git Documnetation](https://git-scm.com/book/en/v1/Getting-Started-Git-Basics)
 
-on your terminal / cmd, type : "pip install pipenv"
+2. Install pipenv. It's a more robust version of python pip.
 
-then go to your 2048-reloaded directory and run pipenv sync to install all
-of the packages and dependencies you need in this project
-
-intro articles on how to use git:
-
-https://git-scm.com/book/en/v1/Getting-Started-Git-Basics
-
-https://guides.github.com/activities/hello-world/
-
-https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+    We will use pipenv to easily install the packages and dependencies we need in this project
+    
+    To install, type in your terminal/cmd:
+    ```
+    pip install pipenv
+    ```
+    make sure that Pipfile and Pipfile.lock is inside the directory
+    (if not, make sure that you have properly cloned this repository)
+    
+    then go to your 2048-reloaded directory and run 
+    ```
+    pipenv sync
+    ```
 
 just text in chat if you need help on anything!
 remember, this project is just for fun. no one has any obligations and responsibilities
