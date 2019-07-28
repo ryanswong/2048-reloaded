@@ -2,39 +2,37 @@
 A revamped python 2048 game
 
 ## Getting Started
-1. Install [git](https://git-scm.com/downloads)
+#### 1. Install [git](https://git-scm.com/downloads)
 
-    We will be using git to version control the project as well as allow for group contribution.
+We will be using git to version control the project as well as allow for group contribution.
 
-    Helpful articles on how to use git:
-    
-    * [Getting Started on Git and Github (Lots of great links)](https://github.com/maptime/getting-started-with-git-and-github/blob/master/README.md)
-    * [Github Guide (10 minute read)](https://guides.github.com/activities/hello-world/)
-    * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
-    * [Official git Documentation](https://git-scm.com/book/en/v1/Getting-Started-Git-Basics)
-    * [Git commands cheat-sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)
+Helpful articles on how to use git:
 
-2. Install pipenv. It's a more robust version of python pip.
+* [Getting Started on Git and Github (Lots of great links)](https://github.com/maptime/getting-started-with-git-and-github/blob/master/README.md)
+* [Github Guide (10 minute read)](https://guides.github.com/activities/hello-world/)
+* [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
+* [Official git Documentation](https://git-scm.com/book/en/v1/Getting-Started-Git-Basics)
+* [Git commands cheat-sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)
 
-    We will use pipenv to easily install the packages and dependencies we need in this project
-    
-    To install, type in your terminal/cmd:
-    ```
+#### 2. Install pipenv. It's a more robust version of python pip.
+
+We will use pipenv to easily install the packages and dependencies we need in this project
+
+To install, type in your terminal/cmd:
+
     pip install pipenv
-    ```
-    make sure that Pipfile and Pipfile.lock is inside the directory
-    (if not, make sure that you have properly cloned this repository)
-    
-    then go to your 2048-reloaded directory and run 
-    ```
+
+Make sure that Pipfile and Pipfile.lock is inside the directory
+(if not, make sure that you have properly cloned this repository)
+
+Then go to your 2048-reloaded directory and run. (This will install all packages we need such as pygame, or any other ones we decide to use in the future)
+
     pipenv sync
-    ```
-    this will install all packages we need such as pygame, or any other ones we decide to use in the future
-    
-    to see all pipenv commands type in:
-    ```
+
+To see all pipenv commands type in:
+
     pipenv -h
-    ```
+
     
 
 
