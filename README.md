@@ -11,6 +11,7 @@ then go to your 2048-reloaded directory and run pipenv sync to install all
 of the packages and dependencies you need in this project
 
 intro articles on how to use git:
+
 https://git-scm.com/book/en/v1/Getting-Started-Git-Basics
 https://guides.github.com/activities/hello-world/
 https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
