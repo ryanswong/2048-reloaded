@@ -6,7 +6,7 @@ A revamped python 2048 game
 
 We will be using git to version control the project as well as allow for group contribution.
 
-**Helpful articles on how to use git:
+**Helpful articles on how to use git:**
 
 * [Getting Started on Git and Github (Lots of great links)](https://github.com/maptime/getting-started-with-git-and-github/blob/master/README.md)
 * [Github Guide (10 minute read)](https://guides.github.com/activities/hello-world/)
@@ -14,7 +14,7 @@ We will be using git to version control the project as well as allow for group c
 * [Official git Documentation](https://git-scm.com/book/en/v1/Getting-Started-Git-Basics)
 * [Git commands cheat-sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)
 
-**Cloning this project
+**Cloning this project**
 
 * Open your cmd/terminal/ (wherever you want to run your git commands), go to your directory (I would recommend making a "projects" folder) where you want the 2048-reloaded project folder to rest in. 
 
