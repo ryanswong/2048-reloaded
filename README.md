@@ -11,7 +11,7 @@ A revamped python 2048 game
     * [Getting Started on Git and Github (Lots of great links)](https://github.com/maptime/getting-started-with-git-and-github/blob/master/README.md)
     * [Github Guide (10 minute read)](https://guides.github.com/activities/hello-world/)
     * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
-    * [Official git Documnetation](https://git-scm.com/book/en/v1/Getting-Started-Git-Basics)
+    * [Official git Documentation](https://git-scm.com/book/en/v1/Getting-Started-Git-Basics)
     * [Git commands cheat-sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)
 
 2. Install pipenv. It's a more robust version of python pip.
@@ -29,6 +29,9 @@ A revamped python 2048 game
     ```
     pipenv sync
     ```
+    this will install all packages we need such as pygame, or any other ones we decide to use in the future
+
+
 
 just text in chat if you need help on anything!
 remember, this project is just for fun. no one has any obligations and responsibilities
