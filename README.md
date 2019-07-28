@@ -12,6 +12,7 @@ A revamped python 2048 game
     * [Github Guide (10 minute read)](https://guides.github.com/activities/hello-world/)
     * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
     * [Official git Documnetation](https://git-scm.com/book/en/v1/Getting-Started-Git-Basics)
+    * [Git commands cheat-sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)
 
 2. Install pipenv. It's a more robust version of python pip.
 
